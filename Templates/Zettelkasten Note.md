@@ -1,9 +1,9 @@
 ---
-aliases: [Lorem Ipsum]
+aliases: []
 tags: [zettel]
 projects: []
-title: Lorem Ipsum
-linter-yaml-title-alias: Lorem Ipsum
+title: 
+linter-yaml-title-alias: 
 date created: <% tp.date.now("dddd, MMMM Do YYYY, h:mm:ss a") %>
 date modified: <% tp.date.now("dddd, MMMM Do YYYY, h:mm:ss a") %>
 ---
