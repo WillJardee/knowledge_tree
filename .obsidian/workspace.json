@@ -4,24 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3fde841227753554",
+        "id": "4fe53445677cebe0",
         "type": "tabs",
         "children": [
           {
-            "id": "fa7779fed8ad75a1",
+            "id": "3b21d2393a754c97",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "_PARA/Projects/Test Project 2/Scratchpad.md",
+                "mode": "preview",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "b8c17f1cb3de637f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -86,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_PARA/Projects/Test Project 2/Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_PARA/Projects/Test Project 2/Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_PARA/Projects/Test Project 2/Scratchpad.md"
               }
             }
           },
@@ -179,41 +187,43 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
-      "cmdr:QuickAdd: Create New Project": false,
       "publish:Publish changes": true,
-      "cmdr:QuickAdd: Add to Project Kanban": false,
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": true,
       "random-note:Open random note": true,
-      "obsidian-map-view:Open map view": false,
       "periodic-notes:Open today": false,
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:QuickAdd: Add to Project Scratchpad": false,
+      "cmdr:QuickAdd: Create New Project": false,
+      "cmdr:QuickAdd: Add to Project Kanban": false,
       "cmdr:Linter: Lint the current file": false,
       "cmdr:QuickAdd: Capture Thought": false,
       "cmdr:Luhman: Insert Zettel Link": false,
-      "open-vscode:VSCode": false,
       "cmdr:QuickAdd: Move Zettel to Private": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-map-view:Open map view": false,
+      "obsidian-gallery:Gallery": false
     }
   },
   "active": "885911e69901227d",
   "lastOpenFiles": [
-    "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md",
-    "README.md",
-    "Readwise-Example/Readwise-Example.md",
-    "_tutorial/_tutorial.md",
-    "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png",
-    "_PARA/Projects/rs/rs.md",
-    "_PARA/Projects/rs/Resources.md",
-    "_PARA/Projects/rs/Kanban.md",
-    "_PARA/Projects/rs/Scratchpad.md",
-    "202212151455.md"
+    "Untitled.md",
+    "_PARA/Projects/Test Project 2/Scratchpad.md",
+    "202212090136.md",
+    "202212090137.md",
+    "202212120002.md",
+    "202212122239.md",
+    "202212151455.md",
+    "202301231912.md",
+    "Templates/Templates.md",
+    "Computed/Computed.md"
   ]
 }

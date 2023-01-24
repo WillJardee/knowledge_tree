@@ -8,6 +8,7 @@ date modified: Wednesday, December 14th 2022, 3:33:55 pm
 %% Begin Waypoint %%
 - **[[Archived Project]]**
 	- [[Kanban]]
+	- [[Sample File]]
 	- [[Scratchpad]]
 
 %% End Waypoint %%

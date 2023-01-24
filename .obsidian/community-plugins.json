@@ -28,5 +28,9 @@
   "obsidian-plugin-update-tracker",
   "obsidian-linter",
   "open-vscode",
-  "wikilinks-to-mdlinks-obsidian"
+  "wikilinks-to-mdlinks-obsidian",
+  "obsidian-admonition",
+  "obsidian-gallery",
+  "obsidian-timestamper",
+  "oz-image-plugin"
 ]
