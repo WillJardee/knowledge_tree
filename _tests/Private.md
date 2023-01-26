@@ -1,17 +1,19 @@
 ---
-tags: 
+aliases: [Private]
+tags: []
 title: Private
 date created: Wednesday, December 7th 2022, 11:34:44 pm
-date modified: Wednesday, December 14th 2022, 3:33:55 pm
+date modified: Thursday, January 26th 2023, 12:14:45 pm
+linter-yaml-title-alias: Private
 ---
 
-> [!warning]
+> [!warning]  
 > Private notes should have a icon in front of them to show they will not propogate to [Obsidian Publish](https://obsidian.md/publish)
 
-You should see the shh emoji (🤫) to the left of this private note -> [[Secret Note]][^1]
+You should see the shh emoji (🤫) to the left of this private note -> [[Secret Note]][^1]  
 You should **not** see the shh emoji (🤫) next to this public note -> [[README]]
 
-Daily Notes should also be kept private imo, but this is optional -- you should see a  calendar emoji (📆) before a daily note -> [[2022-12-11]]
+Daily Notes should also be kept private imo, but this is optional -- you should see a calendar emoji (📆) before a daily note -> [[2022-12-11]]
 
 ## Resources
 

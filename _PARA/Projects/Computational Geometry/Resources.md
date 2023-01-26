@@ -1,6 +1,10 @@
 ---
-aliases: 
+aliases: [Resources]
 tags: [projects, Computational-Geometry]
+title: Resources
+linter-yaml-title-alias: Resources
+date created: Tuesday, January 24th 2023, 10:28:36 am
+date modified: Thursday, January 26th 2023, 12:14:45 pm
 ---
 
 ```dataview
@@ -8,12 +12,10 @@ list
 where contains(projects, "Computational-Geometry")
 ```
 
-
-
->[!info]
-> The following code block allows you to "freeze" the Dataview query result above into HTML.
-> If you use Obsidian Publish, this will allow you to publish the resource list as it is above.
-> I recommend running this, **after** you finish a project and are ready to commit it to _PARA/Archive.
+>[!info]  
+> The following code block allows you to "freeze" the Dataview query result above into HTML.  
+> If you use Obsidian Publish, this will allow you to publish the resource list as it is above.  
+> I recommend running this, **after** you finish a project and are ready to commit it to _PARA/Archive.  
 > To use: open command pallette, remove the spaces between < % and *, run "Templater: Replace all templates in Active File", and remove the triple backticks.
 
 ```
@@ -23,4 +25,3 @@ const arr = await dv.queryMarkdown('LIST where contains(projects, "Computational
 tR += arr.value
 % >
 ```
-

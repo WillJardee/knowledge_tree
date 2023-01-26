@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0272bf991eadfb2d",
+        "id": "ca48f2f5f4ddadc4",
         "type": "tabs",
         "children": [
           {
-            "id": "1ddc65b5b9211ee3",
+            "id": "e69b8dc5cc8dba62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202301250900.md",
+                "file": "202301241202.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "202301250900.md",
+            "file": "202301241202.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "202301250900.md",
+            "file": "202301241202.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,24 +131,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "202301250900.md"
+            "file": "202301241202.md"
           }
         }
       }
     ],
     "currentTab": 4
   },
-  "active": "1ddc65b5b9211ee3",
+  "active": "e69b8dc5cc8dba62",
   "lastOpenFiles": [
-    "202301250936.md",
-    "202301250934.md",
-    "202301250933.md",
-    "202301250900.md",
-    "202301250919.md",
+    "Calendar/Daily/2023-01-26.md",
     "202301241202.md",
-    "Excalidraw/Drawing 2023-01-24 12.41.25.excalidraw.md",
     "202301241227.md",
-    "202301241218.md",
-    "202301241207.md"
+    "202301241207.md",
+    "Inbox/Computer Capture/2022-12-15-14-50-51.md",
+    "2023-01-25.md",
+    "202301240849.md",
+    "202301260832.md",
+    "202301260815.md",
+    "202301260811.md"
   ]
 }

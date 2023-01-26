@@ -1,10 +1,10 @@
 ---
 aliases: [Tasks in Daily Notes]
-tags: 
+tags: []
 title: Tasks in Daily Notes
 linter-yaml-title-alias: Tasks in Daily Notes
 date created: Monday, December 12th 2022, 10:11:07 pm
-date modified: Wednesday, December 14th 2022, 3:33:55 pm
+date modified: Thursday, January 26th 2023, 12:14:45 pm
 ---
 
 # Tasks in Daily Notes
@@ -84,4 +84,3 @@ not done
 path includes Calendar
 heading includes todo/sunday
 ```
-
