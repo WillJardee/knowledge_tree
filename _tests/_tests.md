@@ -1,14 +1,17 @@
 ---
-tags: 
+aliases: [_tests]
+tags: []
 title: _tests
 date created: Wednesday, December 7th 2022, 11:26:33 pm
-date modified: Wednesday, December 14th 2022, 3:33:55 pm
+date modified: Thursday, January 26th 2023, 12:14:45 pm
+linter-yaml-title-alias: _tests
 ---
 
->[!info]
+>[!info]  
 >Sometimes plugins get updated and things break. It's ok! This folder will give you an idea if something doesn't work to spec
 
 %% Begin Waypoint %%
+
 - **External**
 	- [[Alfred]]
 	- [[GitHub]]

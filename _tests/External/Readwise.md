@@ -1,10 +1,13 @@
 ---
-tags: 
+aliases: [Readwise]
+tags: []
 title: Readwise
 date created: Thursday, December 8th 2022, 5:14:37 pm
-date modified: Wednesday, December 14th 2022, 3:33:55 pm
+date modified: Thursday, January 26th 2023, 12:14:45 pm
+linter-yaml-title-alias: Readwise
 ---
-If you use Readwise, you'll be able to have resources auto sync from Kindle + the web. They'll end up in the  `/Readwise` directory.
+
+If you use Readwise, you'll be able to have resources auto sync from Kindle + the web. They'll end up in the `/Readwise` directory.
 
 ## Dataview Test (should Have One item)
 ```dataview

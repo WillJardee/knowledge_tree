@@ -12,7 +12,7 @@ lastContacted: 2022-01-01
 relationship: cousin
 title: John Doe
 date created: Friday, December 9th 2022, 12:11:22 pm
-date modified: Thursday, December 15th 2022, 1:01:58 pm
+date modified: Thursday, January 26th 2023, 12:14:43 pm
 linter-yaml-title-alias: John Doe
 ---
 

@@ -6,7 +6,7 @@ reps: 5
 weight: 135
 linter-yaml-title-alias: Squats
 date created: Thursday, December 15th 2022, 1:13:46 pm
-date modified: Thursday, December 15th 2022, 1:15:18 pm
+date modified: Thursday, January 26th 2023, 12:14:43 pm
 ---
 
 # Squats

@@ -3,7 +3,7 @@ aliases: [README]
 tags: [readme]
 title: README
 date created: Friday, December 9th 2022, 12:24:59 pm
-date modified: Saturday, December 17th 2022, 6:15:46 pm
+date modified: Thursday, January 26th 2023, 12:14:44 pm
 linter-yaml-title-alias: README
 ---
 # README
@@ -136,9 +136,9 @@ Related philosophies:
 
 *CODE* by Tiago Forte stands for **Capture**, **Organize**, **Distill** and **Express**. Fast capture with minimal friction is a priority goal of BHOV-2023, because you never know when and where inspiration will strike.
 
-To do quick **capture** on my computer, I leverage Shimmering Obsidian (powerful plugin in Alfred that can be evoked anywhere on your Mac (while watching a video, browsing the web, etc.)) and custom written iOS shortcuts. 
+To do quick **capture** on my computer, I leverage Shimmering Obsidian (powerful plugin in Alfred that can be evoked anywhere on your Mac (while watching a video, browsing the web, etc.)) and custom written iOS shortcuts.
 
-The point of Capture shortcuts is to avoid the [Doorway effect](https://en.wikipedia.org/wiki/Doorway_effect#:~:text=The%20doorway%20effect%20is%20a,remained%20in%20the%20same%20place.). The shortcuts put raw thoughts in our `Inbox/` for future processing. The important part is that we can **trust that our ideas will land in a place where we can process them later**. 
+The point of Capture shortcuts is to avoid the [Doorway effect](https://en.wikipedia.org/wiki/Doorway_effect#:~:text=The%20doorway%20effect%20is%20a,remained%20in%20the%20same%20place.). The shortcuts put raw thoughts in our `Inbox/` for future processing. The important part is that we can **trust that our ideas will land in a place where we can process them later**.
 
 *A similar process is done on my mobile device leveraging iOS shortcuts and Obsidian Sync.*
 
@@ -231,11 +231,11 @@ Fortunately for us, Zettelkasten is a core feature of the Obsidian workflow. The
 1. Is this note atomic?
 2. What will I link it to?
 
-In BHOV-2023, Zettlekasten is responsible for ideas and notes that don't fit cleanly into the `Projects` or `Archive` folders of [PARA](#para). 
+In BHOV-2023, Zettlekasten is responsible for ideas and notes that don't fit cleanly into the `Projects` or `Archive` folders of [PARA](#para).
 
 In other words, Zettelkasten notes are evergreen knowledge that form your lattice of thinking, but don't have specific utility. In BHOV-2023, the goal of the Zettelkasten is to serve as puzzle pieces to help us Express (the E in [CODE](#code)) ourselves.
 
-Notes like [[202212090137]] and [[202212090136]] live in the root directory, but have tags that serve as "buckets". The page preview plugin allows us to hover over the notes and see what's inside (if you're reading this in Obsidian, go ahead and give it a try!). 
+Notes like [[202212090137]] and [[202212090136]] live in the root directory, but have tags that serve as "buckets". The page preview plugin allows us to hover over the notes and see what's inside (if you're reading this in Obsidian, go ahead and give it a try!).
 
 **Make sure to give context to links when you link them for future reference.**
 
@@ -279,7 +279,7 @@ We can ease the "writers' block" of deciding which notes to upkeep by leveraging
 <%* const todayIs = tp.date.now("YYYY-MM-DD") %>
 ```
 
-The side benefit of all this work is that it publishable! Since a garden is a collection of linked and curated thoughts, a published garden serves as a public utility similar to maintained gardens in the real world. 
+The side benefit of all this work is that it publishable! Since a garden is a collection of linked and curated thoughts, a published garden serves as a public utility similar to maintained gardens in the real world.
 
 Visitors can meander around [your thought garden](https://publish.obsidian.md/bram), stopping to marvel at the hydrangeas, or beelining straight for the mini pagoda and water feature in the corner.
 
@@ -352,13 +352,14 @@ Plugins:
 
 ### Metcalfe's Law
 
-**Metcalfe's Law** is a concept that says that the value of a network is the square of the number of nodes in the network. 
+**Metcalfe's Law** is a concept that says that the value of a network is the square of the number of nodes in the network.
 
 In the parlance of Zettelkasten, **the more connected notes you have, the higher the value of the overall system.**
 
 Processing notes from Readwise and Daily Notes will automatically put you into Metcalfe Law category, over a long period of time. **The goal is to keep showing up, and to keep expanding your network whenever possible.**
 
 Related Philosophies:
+
 - Digital Garden
 - Progressive Summarization
 
@@ -384,9 +385,9 @@ AI has been taking over the news lately, particularly **Large Language Models** 
 
 [How and why this works is beyond the scope of this README](https://dugas.ch/artificial_curiosity/GPT_architecture.html), but know that we can use LLMs to our benefit.
 
-Thanks to Zettelkasten, we have perfectly cordoned off atomic thoughts that can be embedded for semantic search. 
+Thanks to Zettelkasten, we have perfectly cordoned off atomic thoughts that can be embedded for semantic search.
 
-Semantic search is a powerful type of search that indexes across meaning instead of full text searching. For example, I might be able to search singer and retrieve "Taylor Swift", but if I were using full text search, singer and Taylor Swift have no letters in common so I would return zero results. This is not relevant for BHOV-2023, but I'm actively working in this area, so hope for good news on this front soon! 
+Semantic search is a powerful type of search that indexes across meaning instead of full text searching. For example, I might be able to search singer and retrieve "Taylor Swift", but if I were using full text search, singer and Taylor Swift have no letters in common so I would return zero results. This is not relevant for BHOV-2023, but I'm actively working in this area, so hope for good news on this front soon!
 
 Plugins:
 
@@ -411,7 +412,7 @@ Plugins:
 
 ### Content Management Systems
 
-Posting content on the internet has become a very normalized thing to do -- whether you post on your own domain or a large website like Twitter. Sharing coherent and well structured thought is rapidly becoming a necessary skill to survive in the 21st century. 
+Posting content on the internet has become a very normalized thing to do -- whether you post on your own domain or a large website like Twitter. Sharing coherent and well structured thought is rapidly becoming a necessary skill to survive in the 21st century.
 
 Fortunately for us, we have a whole databank of really good thoughts to pull from! With structured data sourcing from PARA and "unstructured" data emerging from our Zettelkasten, creating long form content is more about stitching together existing raw material than creating from scratch.
 
@@ -440,6 +441,7 @@ In BHOV-2023, Antifragility means that as your vault evolves you shouldn't feel 
 > - Bruce Lee
 
 Related philosophies:
+
 - Zettelkasten
 - An Unexamined Life is not Worth Living
 
@@ -462,12 +464,13 @@ External Software:
 - GitHub
 
 Related philosophies:
+
 - Digital Garden
 - Content Management Systems
 
 ### Causa Sui
 
-In the Denial of Death, philosopher Ernest Becker discusses the idea that we all knowingly or unknowingly undergo *Causa Sui projects*, or immortality projects. 
+In the Denial of Death, philosopher Ernest Becker discusses the idea that we all knowingly or unknowingly undergo *Causa Sui projects*, or immortality projects.
 
 An *immortality project* is the desire for one to create meaning past their own life span, using their work, genetic progeny, or cultural beliefs of an afterlife.
 
@@ -504,13 +507,13 @@ Most interactions with BHOV fall under three categories: project related work, d
 
 #### From Capture To Complete Thought (Zettelkasten)
 
-There are numerous ways that new information comes into the BHOV-2023 vault. As long as we can trust that items will enter our vault, we can deal with them whenever. Since obsidian is folder backed, anything that can insert a file into BHOV-2023  will show up in your vault. If a note has the \#to-process tag, it will show up in `Computed/To Process`. 
+There are numerous ways that new information comes into the BHOV-2023 vault. As long as we can trust that items will enter our vault, we can deal with them whenever. Since obsidian is folder backed, anything that can insert a file into BHOV-2023 will show up in your vault. If a note has the \#to-process tag, it will show up in `Computed/To Process`.
 
-When you open a note that needs processing, take a second to think about the note that you are looking at. Is it missing information or context that you can provide? Is it too long? Can it be shortened down to something more pithy? 
+When you open a note that needs processing, take a second to think about the note that you are looking at. Is it missing information or context that you can provide? Is it too long? Can it be shortened down to something more pithy?
 
 To me, a note is "Zettelkastened" once it: conforms to the [Zettelkasten](#zettelkasten) format and you wouldn't mind putting in a letter and sealing up in an envelope (atomic).
 
-Finally highlight the text that you just created and cut/copy it to clipboard. Once in the clipboard hit `ctrl-n` to make a new note,  and templater it will automatically create a Zettelkasten note. Make sure to go back to the note you created and link the newly processed note!
+Finally highlight the text that you just created and cut/copy it to clipboard. Once in the clipboard hit `ctrl-n` to make a new note, and templater it will automatically create a Zettelkasten note. Make sure to go back to the note you created and link the newly processed note!
 
 #### Project Management Like a Pro (Projects)
 
@@ -676,8 +679,10 @@ The query step is more out of your hands but you can do things to improve your e
 
 ### Readwise
 
- Readwise is a very powerful software that syncs with multiple form of inputs whether that be Twitter or books. The Readwise Official integration automatically syncs into Obsidian once you set it up with your account. 
+ Readwise is a very powerful software that syncs with multiple form of inputs whether that be Twitter or books. The Readwise Official integration automatically syncs into Obsidian once you set it up with your account.
+
  
+
  If you'd like to copy my settings you can go into `tests/external/readwise` to see the export settings that I've used.
 
 ### Alfred
@@ -706,7 +711,7 @@ GitHub is a hosting service for code, in BHOV-2023 we use it to store snapshots 
 
 *IOS only*
 
-Shortcuts are small bits of code that run on your phone. These small workflows allow for macro style functionality. 
+Shortcuts are small bits of code that run on your phone. These small workflows allow for macro style functionality.
 
 In the near future I will publish the shortcuts that I use daily in a sister repo to BHOV-2023.
 
@@ -723,7 +728,7 @@ BHOV-2023 is only helpful if you can use it day in/day out as a tool to help you
 
 Reflection is a critical component to the value of this vault, and so one day a week **must** be carved out to do reflection. This shouldn't take more than thirty minutes or so, but it does need to happen once a week, so choose what works best for you.
 
-Reflection is an extension on what happens on a normal evening where I spend more time processing notes and try to do deeper work in consolidating the thought processes that I've had over the week. 
+Reflection is an extension on what happens on a normal evening where I spend more time processing notes and try to do deeper work in consolidating the thought processes that I've had over the week.
 
 In BHOV-2023 it's easy to traverse through a whole week and just click between the notes to see what you thought during the different days, and use that as firepower to create new notes and ideas.
 
@@ -818,7 +823,7 @@ The following is a list of these plugins as well as a one sentence blurb of how 
 - [Open Vault in VSCode](obsidian://show-plugin?id=open-vscode)
 	- Visual studio code has very powerful support for multiple cursors. These cursors allow for simultaneous editing. This plug-in opens visual studio code to the current note that you were are on in obsidian. Also allows for editing of `.js` files found in the `/scripts` directory
 - [Map View](obsidian://show-plugin?id=obsidian-map-view)
-	- if you put the location tag in your  YAML and include latitude and longitude you can see that note on a map view of the entire planet. This gives a new dimension to notetaking allowing you to see the location of where your notes were taken.
+	- if you put the location tag in your YAML and include latitude and longitude you can see that note on a map view of the entire planet. This gives a new dimension to notetaking allowing you to see the location of where your notes were taken.
 - [Excalidraw](obsidian://show-plugin?id=obsidian-excalidraw-plugin)
 	- Excalidraw is a very powerful drawing tool that allows you to condense thought into visual images. Excalidraw is great for both drawing and visual storytelling
 - [Shimmering Obsidian](https://github.com/chrisgrieser/shimmering-obsidian) (Alfred plugin)
@@ -906,32 +911,31 @@ After getting your sea legs for a few days (perhaps a week!) and you feel comfor
 
 Obsidian is a software with many winding roads. Due to the complexity of community plugins being largely driven by independent developers that work for free, some plugins don't always function as they should. Here's a few things to look out for:
 
-##### Sometimes Commander (plugin) moves things on the ribbon by themselves or items disappear
+##### Sometimes Commander (plugin) Moves Things on the Ribbon by Themselves or Items Disappear
 
-Try `View > Force Reload 
+Try `View > Force Reload
 
-#### Sync is acting weird
+#### Sync is Acting Weird
 
 Make sure that you are syncing to this vault and not another one in your sync settings
 
-#### Templater isn't completing templates correctly
+#### Templater Isn't Completing Templates Correctly
 
 This one's tricky, but try and find out the error from `View > Toggle Developer Tools`. If that doesn't work try to delete the offending line or the template all together.
 
-#### Dataview isn't querying correctly
+#### Dataview Isn't Querying Correctly
 
 Make sure the query is syntactically correct. Look into the *tag* or *path* that it is pulling from, do they exist?
 
-#### A script isn't working and I don't know which one
+#### A Script Isn't Working and I Don't Know Which One
 
 Check the `_scripts` folder. You can't see/edit JS in Obsidian, so you'll need to edit it in another software like VSCode
 
-
-#### Should I fork or "Use this Template" for BHOV-2023?
+#### Should I Fork or "Use This Template" for BHOV-2023?
 
 [This Stack Overflow answer should help](https://stackoverflow.com/a/68737256/3952024)
 
-#### BHOV-2023 Template was updated and I want the updates!
+#### BHOV-2023 Template Was Updated and I Want the Updates
 
 This is a bit tricky since any template children off of BHOV-2023 have entirely separate histories. [But it it is technically possible](https://stackoverflow.com/questions/56577184/github-pull-changes-from-a-template-repository).
 

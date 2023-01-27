@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0272bf991eadfb2d",
+        "id": "ca48f2f5f4ddadc4",
         "type": "tabs",
         "children": [
           {
-            "id": "1ddc65b5b9211ee3",
+            "id": "e69b8dc5cc8dba62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,17 +138,17 @@
     ],
     "currentTab": 4
   },
-  "active": "1ddc65b5b9211ee3",
+  "active": "e69b8dc5cc8dba62",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-01-24 12.41.25.excalidraw.md",
+    "Calendar/Daily/2023-01-26.md",
     "202301241202.md",
     "202301241227.md",
-    "202301241218.md",
     "202301241207.md",
-    "202301241106.md",
-    "Inbox/Scratchpad.md",
-    "Calendar/Daily/2023-01-24.md",
-    "Excalidraw/Drawing 2023-01-24 11.03.08.excalidraw.md",
-    "the dress.md"
+    "Inbox/Computer Capture/2022-12-15-14-50-51.md",
+    "2023-01-25.md",
+    "202301240849.md",
+    "202301260832.md",
+    "202301260815.md",
+    "202301260811.md"
   ]
 }
