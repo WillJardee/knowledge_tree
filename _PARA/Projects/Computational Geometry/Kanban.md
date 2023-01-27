@@ -12,6 +12,7 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] Read Lecture 2
 
 
 ## Done

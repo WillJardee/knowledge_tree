@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4fe53445677cebe0",
+        "id": "1533b3744799c9dc",
         "type": "tabs",
         "children": [
           {
-            "id": "3b21d2393a754c97",
+            "id": "f9a969ab3f8c0bdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA/Projects/Test Project 2/Scratchpad.md",
+                "file": "Calendar/Daily/2023-01-26.md",
                 "mode": "preview",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b8c17f1cb3de637f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -115,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_PARA/Projects/Test Project 2/Scratchpad.md",
+                "file": "Calendar/Daily/2023-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_PARA/Projects/Test Project 2/Scratchpad.md",
+                "file": "Calendar/Daily/2023-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_PARA/Projects/Test Project 2/Scratchpad.md"
+                "file": "Calendar/Daily/2023-01-26.md"
               }
             }
           },
@@ -199,7 +191,6 @@
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": true,
       "random-note:Open random note": true,
-      "periodic-notes:Open today": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:QuickAdd: Add to Project Scratchpad": false,
@@ -210,20 +201,22 @@
       "cmdr:Luhman: Insert Zettel Link": false,
       "cmdr:QuickAdd: Move Zettel to Private": false,
       "obsidian-map-view:Open map view": false,
-      "obsidian-gallery:Gallery": false
+      "obsidian-gallery:Gallery": false,
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "885911e69901227d",
+  "active": "f9a969ab3f8c0bdf",
   "lastOpenFiles": [
-    "Untitled.md",
-    "_PARA/Projects/Test Project 2/Scratchpad.md",
-    "202212090136.md",
-    "202212090137.md",
-    "202212120002.md",
-    "202212122239.md",
-    "202212151455.md",
-    "202301231912.md",
-    "Templates/Templates.md",
-    "Computed/Computed.md"
+    "Inbox/Scratchpad.md",
+    "Inbox/Computer Capture/Computer Capture.md",
+    "Inbox/Inbox.md",
+    "Calendar/Daily/2023-01-25.md",
+    "Computed/Computed.md",
+    "Computed/To Process.md",
+    "Inbox/Computer Capture/2022-12-11--12-00-00.md",
+    "_PARA/Projects/Computational Geometry/Kanban.md",
+    "Computed/Tasks.md",
+    "Computed/CRM.md"
   ]
 }

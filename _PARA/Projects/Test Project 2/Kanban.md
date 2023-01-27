@@ -8,7 +8,7 @@ date modified: Wednesday, December 14th 2022, 4:44:52 pm
 
 ## To Do
 
-- [ ] a task for test project 2!
+- [x] a task for test project 2! ✅ 2023-01-24
 
 
 ## In Progress

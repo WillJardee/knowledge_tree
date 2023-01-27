@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-01-26",
+      "path": "Calendar/Daily/2023-01-26.md"
+    },
+    {
+      "basename": "Scratchpad",
+      "path": "Inbox/Scratchpad.md"
+    },
+    {
+      "basename": "Computer Capture",
+      "path": "Inbox/Computer Capture/Computer Capture.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Inbox/Inbox.md"
+    },
+    {
+      "basename": "2023-01-25",
+      "path": "Calendar/Daily/2023-01-25.md"
+    },
+    {
+      "basename": "Computed",
+      "path": "Computed/Computed.md"
+    },
+    {
+      "basename": "To Process",
+      "path": "Computed/To Process.md"
+    },
+    {
+      "basename": "2022-12-11--12-00-00",
+      "path": "Inbox/Computer Capture/2022-12-11--12-00-00.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "_PARA/Projects/Computational Geometry/Kanban.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Computed/Tasks.md"
+    },
+    {
+      "basename": "CRM",
+      "path": "Computed/CRM.md"
+    },
+    {
+      "basename": "_tests",
+      "path": "_tests/_tests.md"
+    },
+    {
+      "basename": "202301240849",
+      "path": "202301240849.md"
+    },
+    {
+      "basename": "Scratchpad",
+      "path": "_PARA/Projects/Test Project 2/Scratchpad.md"
+    },
+    {
       "basename": "202301241202",
       "path": "202301241202.md"
     },
@@ -23,10 +79,6 @@
     {
       "basename": "202301241106",
       "path": "202301241106.md"
-    },
-    {
-      "basename": "Scratchpad",
-      "path": "Inbox/Scratchpad.md"
     },
     {
       "basename": "2023-01-24",
@@ -69,18 +121,6 @@
       "path": "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md"
     },
     {
-      "basename": "202301240849",
-      "path": "202301240849.md"
-    },
-    {
-      "basename": "To Process",
-      "path": "Computed/To Process.md"
-    },
-    {
-      "basename": "Computed",
-      "path": "Computed/Computed.md"
-    },
-    {
       "basename": "Resources",
       "path": "_PARA/Projects/Advanced Algorithms/Resources.md"
     },
@@ -101,10 +141,6 @@
       "path": "Databases/Recipes/Instant Pot Fried Rice.md"
     },
     {
-      "basename": "_tests",
-      "path": "_tests/_tests.md"
-    },
-    {
       "basename": "Resources",
       "path": "_PARA/Projects/Computational Geometry/Resources.md"
     },
@@ -119,10 +155,6 @@
     {
       "basename": "iOS Shortcuts",
       "path": "_tests/External/iOS Shortcuts.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "_PARA/Projects/Computational Geometry/Kanban.md"
     },
     {
       "basename": "README",
@@ -167,38 +199,6 @@
     {
       "basename": "_PARA",
       "path": "_PARA/_PARA.md"
-    },
-    {
-      "basename": "Test Project 2",
-      "path": "_PARA/Projects/Test Project 2/Test Project 2.md"
-    },
-    {
-      "basename": "2022-12-11--12-00-00",
-      "path": "Inbox/Computer Capture/2022-12-11--12-00-00.md"
-    },
-    {
-      "basename": "Private",
-      "path": "_tests/Private.md"
-    },
-    {
-      "basename": "Scratchpad",
-      "path": "_PARA/Projects/Test Project 2/Scratchpad.md"
-    },
-    {
-      "basename": "202212151455",
-      "path": "202212151455.md"
-    },
-    {
-      "basename": "2023-01-23",
-      "path": "Calendar/Daily/2023-01-23.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "_PARA/Projects/Test Project 2/Resources.md"
-    },
-    {
-      "basename": "seinfeld the art of seduction",
-      "path": "Private/Attachments/seinfeld the art of seduction.png"
     }
   ],
   "omittedPaths": [],
