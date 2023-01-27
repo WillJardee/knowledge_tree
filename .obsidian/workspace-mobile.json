@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202301241202.md",
+                "file": "Calendar/Daily/2023-01-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "202301241202.md",
+            "file": "Calendar/Daily/2023-01-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "202301241202.md",
+            "file": "Calendar/Daily/2023-01-26.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "202301241202.md"
+            "file": "Calendar/Daily/2023-01-26.md"
           }
         }
       }
@@ -140,15 +140,15 @@
   },
   "active": "e69b8dc5cc8dba62",
   "lastOpenFiles": [
-    "Calendar/Daily/2023-01-26.md",
+    "202301250900.md",
     "202301241202.md",
+    "Calendar/Daily/2023-01-26.md",
     "202301241227.md",
     "202301241207.md",
     "Inbox/Computer Capture/2022-12-15-14-50-51.md",
     "2023-01-25.md",
     "202301240849.md",
     "202301260832.md",
-    "202301260815.md",
-    "202301260811.md"
+    "202301260815.md"
   ]
 }
