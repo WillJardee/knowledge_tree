@@ -71,15 +71,6 @@
       "key": "."
     }
   ],
-  "luhman:open-zettel": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "Z"
-    }
-  ],
   "obsidian-hotkeys-for-templates:templater:Note Refactor Zettelkasten Template.md": [
     {
       "modifiers": [
@@ -96,6 +87,15 @@
         "Shift"
       ],
       "key": "'"
+    }
+  ],
+  "luhman:open-zettel": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Z"
     }
   ]
 }

@@ -16,6 +16,7 @@ date modified: Thursday, January 26th 2023, 12:14:45 pm
 
 ## In Progress
 
+- [ ] Read Lecture 2
 
 
 ## Done

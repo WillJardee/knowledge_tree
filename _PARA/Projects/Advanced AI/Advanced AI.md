@@ -11,7 +11,6 @@ date modified: Thursday, January 26th 2023, 12:14:45 pm
 > [What is my purpose?](https://youtu.be/X7HmltUWXgs)
 
 %% Begin Waypoint %%
-
 - [[Kanban]]
 - [[Resources]]
 - [[Scratchpad]]

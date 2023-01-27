@@ -10,7 +10,7 @@ linter-yaml-title-alias: Kanban
 
 ## To Do
 
-- [ ] a task for test project 2!
+- [x] a task for test project 2! ✅ 2023-01-24
 
 
 ## In Progress

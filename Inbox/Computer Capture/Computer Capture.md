@@ -8,7 +8,6 @@ linter-yaml-title-alias: Computer Capture
 ---
 
 %% Begin Waypoint %%
-
 - [[2022-12-11--12-00-00]]
 - [[2022-12-15-14-50-23]]
 

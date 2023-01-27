@@ -5,6 +5,66 @@
       "path": "Calendar/Daily/2023-01-26.md"
     },
     {
+      "basename": "Scratchpad",
+      "path": "Inbox/Scratchpad.md"
+    },
+    {
+      "basename": "Computer Capture",
+      "path": "Inbox/Computer Capture/Computer Capture.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Inbox/Inbox.md"
+    },
+    {
+      "basename": "2023-01-25",
+      "path": "Calendar/Daily/2023-01-25.md"
+    },
+    {
+      "basename": "Computed",
+      "path": "Computed/Computed.md"
+    },
+    {
+      "basename": "To Process",
+      "path": "Computed/To Process.md"
+    },
+    {
+      "basename": "2022-12-11--12-00-00",
+      "path": "Inbox/Computer Capture/2022-12-11--12-00-00.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "_PARA/Projects/Computational Geometry/Kanban.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Computed/Tasks.md"
+    },
+    {
+      "basename": "CRM",
+      "path": "Computed/CRM.md"
+    },
+    {
+      "basename": "_tests",
+      "path": "_tests/_tests.md"
+    },
+    {
+      "basename": "202301240849",
+      "path": "202301240849.md"
+    },
+    {
+      "basename": "Scratchpad",
+      "path": "_PARA/Projects/Test Project 2/Scratchpad.md"
+    },
+    {
+      "basename": "202301241202",
+      "path": "202301241202.md"
+    },
+    {
+      "basename": "2023-01-26",
+      "path": "Calendar/Daily/2023-01-26.md"
+    },
+    {
       "basename": "202301250900",
       "path": "202301250900.md"
     },
@@ -67,10 +127,6 @@
     {
       "basename": "202301241106",
       "path": "202301241106.md"
-    },
-    {
-      "basename": "Scratchpad",
-      "path": "Inbox/Scratchpad.md"
     },
     {
       "basename": "2023-01-24",
@@ -141,10 +197,6 @@
       "path": "Databases/Recipes/Instant Pot Fried Rice.md"
     },
     {
-      "basename": "_tests",
-      "path": "_tests/_tests.md"
-    },
-    {
       "basename": "Resources",
       "path": "_PARA/Projects/Computational Geometry/Resources.md"
     },
@@ -159,10 +211,6 @@
     {
       "basename": "iOS Shortcuts",
       "path": "_tests/External/iOS Shortcuts.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "_PARA/Projects/Computational Geometry/Kanban.md"
     },
     {
       "basename": "README",
@@ -195,6 +243,18 @@
     {
       "basename": "Archive",
       "path": "_PARA/Archive/Archive.md"
+    },
+    {
+      "basename": "202212120002",
+      "path": "202212120002.md"
+    },
+    {
+      "basename": "202212122239",
+      "path": "202212122239.md"
+    },
+    {
+      "basename": "_PARA",
+      "path": "_PARA/_PARA.md"
     }
   ],
   "omittedPaths": [],

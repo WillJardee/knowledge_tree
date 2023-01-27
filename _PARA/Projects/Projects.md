@@ -8,7 +8,6 @@ linter-yaml-title-alias: Projects
 ---
 
 %% Begin Waypoint %%
-
 - **[[Advanced AI]]**
 - **[[Advanced Algorithms]]**
 - **[[Computational Geometry]]**

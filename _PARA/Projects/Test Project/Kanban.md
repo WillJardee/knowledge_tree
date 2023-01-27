@@ -9,8 +9,14 @@ linter-yaml-title-alias: Kanban
 ---
 
 ## To Do
+<<<<<<< HEAD
+- [x] 2022-12-15 - - [ ] an example task added by quickadd! ✅ 2023-01-24
+
+- [x] a task for test project! ✅ 2023-01-24
+=======
 - [ ] 2022-12-15 - - [ ] an example task added by quickadd!
 - [ ] a task for test project!
+>>>>>>> 66654d1a5cb7bc8ae91fc245e00499612e59875d
 
 
 ## In Progress
