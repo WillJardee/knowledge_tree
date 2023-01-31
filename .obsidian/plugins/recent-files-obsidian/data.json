@@ -1,6 +1,146 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-01-27",
+      "path": "Calendar/Daily/2023-01-27.md"
+    },
+    {
+      "basename": "Drawing 2023-01-24 12.41.25.excalidraw",
+      "path": "Excalidraw/Drawing 2023-01-24 12.41.25.excalidraw.md"
+    },
+    {
+      "basename": "Computed",
+      "path": "Computed/Computed.md"
+    },
+    {
+      "basename": "_tests",
+      "path": "_tests/_tests.md"
+    },
+    {
+      "basename": "Alfred",
+      "path": "_tests/External/Alfred.md"
+    },
+    {
+      "basename": "_PARA",
+      "path": "_PARA/_PARA.md"
+    },
+    {
+      "basename": "2022-12-11",
+      "path": "Calendar/Daily/2022-12-11.md"
+    },
+    {
+      "basename": "Trackers",
+      "path": "Computed/Trackers.md"
+    },
+    {
+      "basename": "Workouts",
+      "path": "Computed/Workouts.md"
+    },
+    {
+      "basename": "2022-12-14",
+      "path": "Calendar/Daily/2022-12-14.md"
+    },
+    {
+      "basename": "2022-12-12",
+      "path": "Calendar/Daily/2022-12-12.md"
+    },
+    {
+      "basename": "To Process",
+      "path": "Computed/To Process.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Computed/Tasks.md"
+    },
+    {
+      "basename": "CRM",
+      "path": "Computed/CRM.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Inbox/Inbox.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "_PARA/Projects/Advanced AI/Resources.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "_PARA/Projects/Advanced Algorithms/Resources.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "_PARA/Projects/Computational Geometry/Resources.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "_PARA/Projects/Computational Geometry/Kanban.md"
+    },
+    {
+      "basename": "Scratchpad",
+      "path": "_PARA/Projects/Computational Geometry/Scratchpad.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "_PARA/Projects/Advanced Algorithms/Kanban.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "_PARA/Projects/Advanced AI/Kanban.md"
+    },
+    {
+      "basename": "Computational Geometry",
+      "path": "_PARA/Projects/Computational Geometry/Computational Geometry.md"
+    },
+    {
+      "basename": "Advanced Algorithms",
+      "path": "_PARA/Projects/Advanced Algorithms/Advanced Algorithms.md"
+    },
+    {
+      "basename": "Advanced AI",
+      "path": "_PARA/Projects/Advanced AI/Advanced AI.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "_PARA/Projects/Projects.md"
+    },
+    {
+      "basename": "Archive",
+      "path": "_PARA/Archive/Archive.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "Templates/Templates.md"
+    },
+    {
+      "basename": "202212141113",
+      "path": "Private/202212141113.md"
+    },
+    {
+      "basename": "Secret Note",
+      "path": "Private/Secret Note.md"
+    },
+    {
+      "basename": "seinfeld the art of seduction",
+      "path": "Private/Attachments/seinfeld the art of seduction.png"
+    },
+    {
+      "basename": "Computer Capture",
+      "path": "Inbox/Computer Capture/Computer Capture.md"
+    },
+    {
+      "basename": "2023-W04",
+      "path": "Calendar/Weekly/2023-W04.md"
+    },
+    {
+      "basename": "Zettelkasten Note",
+      "path": "Templates/Zettelkasten Note.md"
+    },
+    {
+      "basename": "Weekly",
+      "path": "Templates/Weekly.md"
+    },
+    {
       "basename": "2023-01-26",
       "path": "Calendar/Daily/2023-01-26.md"
     },
@@ -13,64 +153,12 @@
       "path": "Inbox/Scratchpad.md"
     },
     {
-      "basename": "Computer Capture",
-      "path": "Inbox/Computer Capture/Computer Capture.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Inbox/Inbox.md"
-    },
-    {
       "basename": "2023-01-25",
       "path": "Calendar/Daily/2023-01-25.md"
     },
     {
-      "basename": "Computed",
-      "path": "Computed/Computed.md"
-    },
-    {
-      "basename": "To Process",
-      "path": "Computed/To Process.md"
-    },
-    {
-      "basename": "2022-12-11--12-00-00",
-      "path": "Inbox/Computer Capture/2022-12-11--12-00-00.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "_PARA/Projects/Computational Geometry/Kanban.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Computed/Tasks.md"
-    },
-    {
-      "basename": "CRM",
-      "path": "Computed/CRM.md"
-    },
-    {
-      "basename": "_tests",
-      "path": "_tests/_tests.md"
-    },
-    {
       "basename": "202301240849",
       "path": "202301240849.md"
-    },
-    {
-      "basename": "Scratchpad",
-      "path": "_PARA/Projects/Test Project 2/Scratchpad.md"
-    },
-    {
-      "basename": "202301241202",
-      "path": "202301241202.md"
-    },
-    {
-      "basename": "Drawing 2023-01-24 12.41.25.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-24 12.41.25.excalidraw.md"
-    },
-    {
-      "basename": "202301250900",
-      "path": "202301250900.md"
     },
     {
       "basename": "202301241202",
@@ -85,63 +173,12 @@
       "path": "202301241207.md"
     },
     {
-<<<<<<< HEAD
-=======
-      "basename": "2023-01-25",
-      "path": "2023-01-25.md"
-    },
-    {
-      "basename": "202301240849",
-      "path": "202301240849.md"
-    },
-    {
-      "basename": "202301260832",
-      "path": "202301260832.md"
-    },
-    {
-      "basename": "202301260815",
-      "path": "202301260815.md"
-    },
-    {
-      "basename": "202301260811",
-      "path": "202301260811.md"
-    },
-    {
-      "basename": "202301250936",
-      "path": "202301250936.md"
-    },
-    {
-      "basename": "202301250934",
-      "path": "202301250934.md"
-    },
-    {
-      "basename": "202301250933",
-      "path": "202301250933.md"
-    },
-    {
-      "basename": "202301250919",
-      "path": "202301250919.md"
-    },
-    {
-      "basename": "Drawing 2023-01-24 12.41.25.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-24 12.41.25.excalidraw.md"
-    },
-    {
-      "basename": "202301241218",
-      "path": "202301241218.md"
-    },
-    {
->>>>>>> 757d5b6ac9ccd4d2b7b1b1cb40339ecef722ccd4
       "basename": "202301241106",
       "path": "202301241106.md"
     },
     {
       "basename": "2023-01-24",
       "path": "Calendar/Daily/2023-01-24.md"
-    },
-    {
-      "basename": "Drawing 2023-01-24 11.03.08.excalidraw",
-      "path": "Excalidraw/Drawing 2023-01-24 11.03.08.excalidraw.md"
     },
     {
       "basename": "202212090137",
@@ -156,115 +193,12 @@
       "path": "202301241100.md"
     },
     {
-      "basename": "Computational Geometry",
-      "path": "_PARA/Projects/Computational Geometry/Computational Geometry.md"
-    },
-    {
-      "basename": "Scratchpad",
-      "path": "_PARA/Projects/Computational Geometry/Scratchpad.md"
-    },
-    {
-      "basename": "Advanced Algorithms",
-      "path": "_PARA/Projects/Advanced Algorithms/Advanced Algorithms.md"
-    },
-    {
       "basename": "Scratchpad",
       "path": "_PARA/Projects/Advanced Algorithms/Scratchpad.md"
     },
     {
-      "basename": "The Ancient Japanese Technique That Produces Lumber Without Cutting Trees",
-      "path": "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md"
-    },
-    {
-<<<<<<< HEAD
-=======
-      "basename": "To Process",
-      "path": "Computed/To Process.md"
-    },
-    {
-      "basename": "Computed",
-      "path": "Computed/Computed.md"
-    },
-    {
->>>>>>> 757d5b6ac9ccd4d2b7b1b1cb40339ecef722ccd4
-      "basename": "Resources",
-      "path": "_PARA/Projects/Advanced Algorithms/Resources.md"
-    },
-    {
       "basename": "CRM",
       "path": "Databases/CRM/CRM.md"
-    },
-    {
-      "basename": "202301240842",
-      "path": "202301240842.md"
-    },
-    {
-      "basename": "202301241003",
-      "path": "202301241003.md"
-    },
-    {
-      "basename": "Instant Pot Fried Rice",
-      "path": "Databases/Recipes/Instant Pot Fried Rice.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "_PARA/Projects/Computational Geometry/Resources.md"
-    },
-    {
-      "basename": "2022-W51",
-      "path": "Calendar/Weekly/2022-W51.md"
-    },
-    {
-      "basename": "2022-Q4",
-      "path": "Calendar/Quarterly/2022-Q4.md"
-    },
-    {
-      "basename": "iOS Shortcuts",
-      "path": "_tests/External/iOS Shortcuts.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Test Project",
-      "path": "_PARA/Projects/Test Project/Test Project.md"
-    },
-    {
-      "basename": "Scratchpad",
-      "path": "_PARA/Projects/Test Project/Scratchpad.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "_PARA/Projects/Test Project/Kanban.md"
-    },
-    {
-      "basename": "Templates",
-      "path": "Templates/Templates.md"
-    },
-    {
-      "basename": "Zettelkasten Note",
-      "path": "Templates/Zettelkasten Note.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "_PARA/Projects/Projects.md"
-    },
-    {
-      "basename": "Archive",
-      "path": "_PARA/Archive/Archive.md"
-    },
-    {
-      "basename": "202212120002",
-      "path": "202212120002.md"
-    },
-    {
-      "basename": "202212122239",
-      "path": "202212122239.md"
-    },
-    {
-      "basename": "_PARA",
-      "path": "_PARA/_PARA.md"
     }
   ],
   "omittedPaths": [],

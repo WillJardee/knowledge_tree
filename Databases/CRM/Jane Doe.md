@@ -12,7 +12,7 @@ lastContacted: 2022-01-01
 relationship: friend
 title: Jane Doe
 date created: Friday, December 9th 2022, 12:11:31 pm
-date modified: Thursday, January 26th 2023, 12:14:43 pm
+date modified: Friday, January 27th 2023, 11:40:35 am
 linter-yaml-title-alias: Jane Doe
 ---
 

@@ -4,7 +4,7 @@ tags: []
 title: Tasks in Daily Notes
 linter-yaml-title-alias: Tasks in Daily Notes
 date created: Monday, December 12th 2022, 10:11:07 pm
-date modified: Thursday, January 26th 2023, 12:14:45 pm
+date modified: Friday, January 27th 2023, 11:40:35 am
 ---
 
 # Tasks in Daily Notes
