@@ -57,6 +57,10 @@
       "path": "Calendar/Daily/2023-01-26.md"
     },
     {
+      "basename": "202301241218",
+      "path": "202301241218.md"
+    },
+    {
       "basename": "Scratchpad",
       "path": "Inbox/Scratchpad.md"
     },
@@ -103,6 +107,14 @@
     {
       "basename": "Scratchpad",
       "path": "_PARA/Projects/Test Project 2/Scratchpad.md"
+    },
+    {
+      "basename": "202301241202",
+      "path": "202301241202.md"
+    },
+    {
+      "basename": "Drawing 2023-01-24 12.41.25.excalidraw",
+      "path": "Excalidraw/Drawing 2023-01-24 12.41.25.excalidraw.md"
     },
     {
       "basename": "202301250900",
@@ -195,6 +207,89 @@
     {
       "basename": "Computed",
       "path": "Computed/Computed.md"
+<<<<<<< main
+=======
+    },
+    {
+      "basename": "Resources",
+      "path": "_PARA/Projects/Advanced Algorithms/Resources.md"
+    },
+    {
+      "basename": "CRM",
+      "path": "Databases/CRM/CRM.md"
+    },
+    {
+      "basename": "202301240842",
+      "path": "202301240842.md"
+    },
+    {
+      "basename": "202301241003",
+      "path": "202301241003.md"
+    },
+    {
+      "basename": "Instant Pot Fried Rice",
+      "path": "Databases/Recipes/Instant Pot Fried Rice.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "_PARA/Projects/Computational Geometry/Resources.md"
+    },
+    {
+      "basename": "2022-W51",
+      "path": "Calendar/Weekly/2022-W51.md"
+    },
+    {
+      "basename": "2022-Q4",
+      "path": "Calendar/Quarterly/2022-Q4.md"
+    },
+    {
+      "basename": "iOS Shortcuts",
+      "path": "_tests/External/iOS Shortcuts.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Test Project",
+      "path": "_PARA/Projects/Test Project/Test Project.md"
+    },
+    {
+      "basename": "Scratchpad",
+      "path": "_PARA/Projects/Test Project/Scratchpad.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "_PARA/Projects/Test Project/Kanban.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "Templates/Templates.md"
+    },
+    {
+      "basename": "Zettelkasten Note",
+      "path": "Templates/Zettelkasten Note.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "_PARA/Projects/Projects.md"
+    },
+    {
+      "basename": "Archive",
+      "path": "_PARA/Archive/Archive.md"
+    },
+    {
+      "basename": "202212120002",
+      "path": "202212120002.md"
+    },
+    {
+      "basename": "202212122239",
+      "path": "202212122239.md"
+    },
+    {
+      "basename": "_PARA",
+      "path": "_PARA/_PARA.md"
+>>>>>>> origin/main
     }
   ],
   "omittedPaths": [],
