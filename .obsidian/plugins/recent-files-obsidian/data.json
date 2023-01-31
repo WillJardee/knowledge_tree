@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "202301241202",
+      "path": "202301241202.md"
+    },
+    {
+      "basename": "2023-W05",
+      "path": "Calendar/Weekly/2023-W05.md"
+    },
+    {
+      "basename": "2023-01-31",
+      "path": "Calendar/Daily/2023-01-31.md"
+    },
+    {
+      "basename": "202301241003",
+      "path": "202301241003.md"
+    },
+    {
+      "basename": "202301240849",
+      "path": "202301240849.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "_PARA/Projects/Advanced Algorithms/Resources.md"
+    },
+    {
+      "basename": "Advanced Algorithms",
+      "path": "_PARA/Projects/Advanced Algorithms/Advanced Algorithms.md"
+    },
+    {
+      "basename": "Scratchpad",
+      "path": "_PARA/Projects/Advanced Algorithms/Scratchpad.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "_PARA/Projects/Advanced Algorithms/Kanban.md"
+    },
+    {
+      "basename": "202301311153",
+      "path": "202301311153.md"
+    },
+    {
+      "basename": "202301310947",
+      "path": "202301310947.md"
+    },
+    {
+      "basename": "202301310850",
+      "path": "202301310850.md"
+    },
+    {
+      "basename": "202301260832",
+      "path": "202301260832.md"
+    },
+    {
       "basename": "2023-01-26",
       "path": "Calendar/Daily/2023-01-26.md"
     },
@@ -49,28 +101,12 @@
       "path": "_tests/_tests.md"
     },
     {
-      "basename": "202301240849",
-      "path": "202301240849.md"
-    },
-    {
       "basename": "Scratchpad",
       "path": "_PARA/Projects/Test Project 2/Scratchpad.md"
     },
     {
-      "basename": "202301241202",
-      "path": "202301241202.md"
-    },
-    {
-      "basename": "2023-01-26",
-      "path": "Calendar/Daily/2023-01-26.md"
-    },
-    {
       "basename": "202301250900",
       "path": "202301250900.md"
-    },
-    {
-      "basename": "202301241202",
-      "path": "202301241202.md"
     },
     {
       "basename": "202301241227",
@@ -83,14 +119,6 @@
     {
       "basename": "2023-01-25",
       "path": "2023-01-25.md"
-    },
-    {
-      "basename": "202301240849",
-      "path": "202301240849.md"
-    },
-    {
-      "basename": "202301260832",
-      "path": "202301260832.md"
     },
     {
       "basename": "202301260815",
@@ -157,14 +185,6 @@
       "path": "_PARA/Projects/Computational Geometry/Scratchpad.md"
     },
     {
-      "basename": "Advanced Algorithms",
-      "path": "_PARA/Projects/Advanced Algorithms/Advanced Algorithms.md"
-    },
-    {
-      "basename": "Scratchpad",
-      "path": "_PARA/Projects/Advanced Algorithms/Scratchpad.md"
-    },
-    {
       "basename": "The Ancient Japanese Technique That Produces Lumber Without Cutting Trees",
       "path": "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md"
     },
@@ -175,86 +195,6 @@
     {
       "basename": "Computed",
       "path": "Computed/Computed.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "_PARA/Projects/Advanced Algorithms/Resources.md"
-    },
-    {
-      "basename": "CRM",
-      "path": "Databases/CRM/CRM.md"
-    },
-    {
-      "basename": "202301240842",
-      "path": "202301240842.md"
-    },
-    {
-      "basename": "202301241003",
-      "path": "202301241003.md"
-    },
-    {
-      "basename": "Instant Pot Fried Rice",
-      "path": "Databases/Recipes/Instant Pot Fried Rice.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "_PARA/Projects/Computational Geometry/Resources.md"
-    },
-    {
-      "basename": "2022-W51",
-      "path": "Calendar/Weekly/2022-W51.md"
-    },
-    {
-      "basename": "2022-Q4",
-      "path": "Calendar/Quarterly/2022-Q4.md"
-    },
-    {
-      "basename": "iOS Shortcuts",
-      "path": "_tests/External/iOS Shortcuts.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Test Project",
-      "path": "_PARA/Projects/Test Project/Test Project.md"
-    },
-    {
-      "basename": "Scratchpad",
-      "path": "_PARA/Projects/Test Project/Scratchpad.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "_PARA/Projects/Test Project/Kanban.md"
-    },
-    {
-      "basename": "Templates",
-      "path": "Templates/Templates.md"
-    },
-    {
-      "basename": "Zettelkasten Note",
-      "path": "Templates/Zettelkasten Note.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "_PARA/Projects/Projects.md"
-    },
-    {
-      "basename": "Archive",
-      "path": "_PARA/Archive/Archive.md"
-    },
-    {
-      "basename": "202212120002",
-      "path": "202212120002.md"
-    },
-    {
-      "basename": "202212122239",
-      "path": "202212122239.md"
-    },
-    {
-      "basename": "_PARA",
-      "path": "_PARA/_PARA.md"
     }
   ],
   "omittedPaths": [],

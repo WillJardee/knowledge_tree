@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca48f2f5f4ddadc4",
+        "id": "e031b8e21a370a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "e69b8dc5cc8dba62",
+            "id": "661757f6d2c87146",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily/2023-01-26.md",
+                "file": "202301241202.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Daily/2023-01-26.md",
+            "file": "202301241202.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Daily/2023-01-26.md",
+            "file": "202301241202.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,24 +131,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Daily/2023-01-26.md"
+            "file": "202301241202.md"
           }
         }
       }
     ],
     "currentTab": 4
   },
-  "active": "e69b8dc5cc8dba62",
+  "active": "661757f6d2c87146",
   "lastOpenFiles": [
-    "202301250900.md",
-    "202301241202.md",
-    "Calendar/Daily/2023-01-26.md",
-    "202301241227.md",
-    "202301241207.md",
-    "Inbox/Computer Capture/2022-12-15-14-50-51.md",
-    "2023-01-25.md",
+    "Calendar/Weekly/2023-W05.md",
+    "Calendar/Daily/2023-01-31.md",
+    "202301241003.md",
     "202301240849.md",
-    "202301260832.md",
-    "202301260815.md"
+    "_PARA/Projects/Advanced Algorithms/Resources.md",
+    "_PARA/Projects/Advanced Algorithms/Advanced Algorithms.md",
+    "_PARA/Projects/Advanced Algorithms/Scratchpad.md",
+    "_PARA/Projects/Advanced Algorithms/Kanban.md",
+    "202301311153.md",
+    "202301310947.md"
   ]
 }
