@@ -4,5 +4,6 @@
     "supercharged-links-gen",
     "dataview-table-overflow"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 16
 }
