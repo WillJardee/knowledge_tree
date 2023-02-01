@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c66516d8e293b5",
+        "id": "9ff3108559ccaf01",
         "type": "tabs",
         "children": [
           {
-            "id": "a93d3064c24eddfb",
+            "id": "625d4f1adfa9dbd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily/2023-01-26.md",
+                "file": "Calendar/Daily/2023-01-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b2837026535a9eaa",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily/2023-01-26.md",
+                "file": "Calendar/Daily/2023-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily/2023-01-26.md",
+                "file": "Calendar/Daily/2023-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily/2023-01-26.md"
+                "file": "Calendar/Daily/2023-01-27.md"
               }
             }
           },
@@ -207,17 +207,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a93d3064c24eddfb",
+  "active": "625d4f1adfa9dbd7",
   "lastOpenFiles": [
-    "202301241218.md",
-    "Calendar/Daily/2023-01-26.md",
-    "Inbox/Scratchpad.md",
-    "Inbox/Computer Capture/Computer Capture.md",
-    "Inbox/Inbox.md",
-    "Calendar/Daily/2023-01-25.md",
+    "Excalidraw/Drawing 2023-01-24 12.41.25.excalidraw.md",
     "Computed/Computed.md",
-    "Computed/To Process.md",
-    "Inbox/Computer Capture/2022-12-11--12-00-00.md",
-    "_PARA/Projects/Computational Geometry/Kanban.md"
+    "_tests/_tests.md",
+    "_tests/External/Alfred.md",
+    "_PARA/_PARA.md",
+    "Calendar/Daily/2023-01-27.md",
+    "Calendar/Daily/2022-12-11.md",
+    "Computed/Trackers.md",
+    "Computed/Workouts.md",
+    "Calendar/Daily/2022-12-14.md"
   ]
 }

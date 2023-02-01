@@ -4,7 +4,7 @@ tags: [projects, Computational-Geometry]
 title: Resources
 linter-yaml-title-alias: Resources
 date created: Tuesday, January 24th 2023, 10:28:36 am
-date modified: Thursday, January 26th 2023, 12:14:45 pm
+date modified: Friday, January 27th 2023, 11:40:31 am
 ---
 
 ```dataview

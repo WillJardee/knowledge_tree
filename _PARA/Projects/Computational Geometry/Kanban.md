@@ -1,11 +1,14 @@
 ---
-aliases: [Kanban]
-tags: 
+
+aliases:
+  - Kanban
+tags: []
 kanban-plugin: basic
 title: Kanban
 linter-yaml-title-alias: Kanban
 date created: Tuesday, January 24th 2023, 10:28:36 am
-date modified: Thursday, January 26th 2023, 12:14:45 pm
+date modified: Friday, January 27th 2023, 11:40:31 am
+
 ---
 
 ## To Do
@@ -16,19 +19,22 @@ date modified: Thursday, January 26th 2023, 12:14:45 pm
 
 ## In Progress
 
-- [ ] Read Lecture 2
 
 
 ## Done
 
 **Complete**
+- [x] Read Lecture 2
+
 
 ## Waiting On
 
-%% kanban:settings
 
+
+
+
+%% kanban:settings
 ```
 {"kanban-plugin":"basic"}
 ```
-
 %%
