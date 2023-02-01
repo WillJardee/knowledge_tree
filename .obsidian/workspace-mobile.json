@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202301241202.md",
+                "file": "202302010908.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "202301241202.md",
+            "file": "202302010908.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "202301241202.md",
+            "file": "202302010908.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "202301241202.md"
+            "file": "202302010908.md"
           }
         }
       }
@@ -140,6 +140,7 @@
   },
   "active": "661757f6d2c87146",
   "lastOpenFiles": [
+    "202301241202.md",
     "Calendar/Weekly/2023-W05.md",
     "Calendar/Daily/2023-01-31.md",
     "202301241003.md",
@@ -148,7 +149,6 @@
     "_PARA/Projects/Advanced Algorithms/Advanced Algorithms.md",
     "_PARA/Projects/Advanced Algorithms/Scratchpad.md",
     "_PARA/Projects/Advanced Algorithms/Kanban.md",
-    "202301311153.md",
-    "202301310947.md"
+    "202301311153.md"
   ]
 }
