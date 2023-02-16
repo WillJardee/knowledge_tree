@@ -21,6 +21,16 @@
       "path": "Untitled.md"
     },
     {
+<<<<<<< HEAD
+      "basename": "2023-W06",
+      "path": "Calendar/Weekly/2023-W06.md"
+    },
+    {
+      "basename": "2023-02-12",
+      "path": "Calendar/Daily/2023-02-12.md"
+    },
+    {
+=======
       "basename": "2023-02-13",
       "path": "Calendar/Daily/2023-02-13.md"
     },
@@ -75,6 +85,9 @@
     {
       "basename": "2023-01-31",
       "path": "Calendar/Daily/2023-01-31.md"
+      "basename": "2023-02-07",
+      "path": "Calendar/Daily/2023-02-07.md"
+>>>>>>> origin/main
     }
   ],
   "omittedPaths": [],
