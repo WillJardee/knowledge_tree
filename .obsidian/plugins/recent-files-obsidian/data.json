@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-02-15",
+      "path": "Calendar/Daily/2023-02-15.md"
+    },
+    {
+      "basename": "Paste URL into Selection",
+      "path": "_tests/Paste URL into Selection.md"
+    },
+    {
+      "basename": "202302131611",
+      "path": "202302131611.md"
+    },
+    {
+      "basename": "2023-W07",
+      "path": "Calendar/Weekly/2023-W07.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "2023-02-13",
       "path": "Calendar/Daily/2023-02-13.md"
     },
@@ -55,8 +75,6 @@
     {
       "basename": "2023-01-31",
       "path": "Calendar/Daily/2023-01-31.md"
-      "basename": "2023-02-07",
-      "path": "Calendar/Daily/2023-02-07.md"
     }
   ],
   "omittedPaths": [],
