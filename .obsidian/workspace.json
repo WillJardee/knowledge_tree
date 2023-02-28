@@ -203,8 +203,8 @@
       "obsidian-map-view:Open map view": false,
       "obsidian-gallery:Gallery": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "10db9e723cc35296",
