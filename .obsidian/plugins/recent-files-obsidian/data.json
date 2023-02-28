@@ -3,6 +3,10 @@
     {
       "basename": "202302271607",
       "path": "202302271607.md"
+<<<<<<< HEAD
+=======
+      "basename": "2023-02-22",
+      "path": "Calendar/Daily/2023-02-22.md"
     },
     {
       "basename": "202302030901",
@@ -37,10 +41,13 @@
       "path": "Calendar/Daily/2023-02-22.md"
     },
     {
+>>>>>>> origin/main
       "basename": "202301241202",
       "path": "202301241202.md"
     },
     {
+      "basename": "2023-02-23",
+      "path": "Calendar/Daily/2023-02-23.md"
       "basename": "202302160809",
       "path": "202302160809.md"
     },
@@ -49,10 +56,12 @@
       "path": "202302131611.md"
     },
     {
-      "basename": "202302080903",
-      "path": "202302080903.md"
+      "basename": "2023-02-15",
+      "path": "Calendar/Daily/2023-02-15.md"
     },
     {
+      "basename": "2023-W06",
+      "path": "Calendar/Weekly/2023-W06.md"
       "basename": "202302021700",
       "path": "202302021700.md"
     },
